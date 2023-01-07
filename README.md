@@ -1,5 +1,7 @@
 # devChallenges
 
+Solution for the challenges posed in devChallenges
+
 | Challenge name  | Technologies  | Repository | Demo |
 | :------------ |:---------------| :-----| :-----|
 | Edie Homepage | HTML - Sass - JavaScript | [Repo](https://github.com/dcuevasdev/edie-homepage) | [Web](https://dcuevasdev.github.io/edie-homepage/) |
